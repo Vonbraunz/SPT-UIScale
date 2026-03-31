@@ -1,7 +1,0 @@
-C:\Users\Odin\source\repos\Vonbraunz\SPT-UIScale\Client\bin\Release\UIScale.Client.dll
-C:\Users\Odin\source\repos\Vonbraunz\SPT-UIScale\Client\bin\Release\UIScale.Client.pdb
-C:\Users\Odin\source\repos\Vonbraunz\SPT-UIScale\Client\obj\Release\UIScale.Client.csproj.AssemblyReference.cache
-C:\Users\Odin\source\repos\Vonbraunz\SPT-UIScale\Client\obj\Release\UIScale.Client.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Odin\source\repos\Vonbraunz\SPT-UIScale\Client\obj\Release\UIScale.Client.csproj.CoreCompileInputs.cache
-C:\Users\Odin\source\repos\Vonbraunz\SPT-UIScale\Client\obj\Release\UIScale.Client.dll
-C:\Users\Odin\source\repos\Vonbraunz\SPT-UIScale\Client\obj\Release\UIScale.Client.pdb
